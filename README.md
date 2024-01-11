@@ -1,1 +1,1 @@
-# hackerrank-Sql
+# sql-by-nuhad
