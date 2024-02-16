@@ -1,4 +1,4 @@
-select * from City where ID=1661;
+select * from City where ID=1661; 
 /*
     Enter your query here and follow these instructions:
     1. Please append a semicolon ";" at the end of the query and enter your query in a single line to avoid error.
